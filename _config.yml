@@ -16,9 +16,9 @@
 title: qm-notes
 email: keith@qubitrot.org
 description: >- # this means to ignore newlines until "baseurl:"
-    Solutions to challenges in 'Category Theory for Programmers' by Bartosz Milewski 
+    Notes on Quantum Mechanics 
 baseurl: "/qm-notes/"
-url: "qubitrot.github.io/qm-notes/"
+# url: "qubitrot.github.io/qm-notes/"
 github_username:  qubitrot
 
 permalink: pretty
